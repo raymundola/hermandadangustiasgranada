@@ -98,7 +98,7 @@ export function Events() {
           className="text-center mt-12"
         >
           <Button variant="goldOutline" size="lg">
-            Ver Calendario Completo
+            Ver Calendaria Completo
           </Button>
         </motion.div>
       </div>
